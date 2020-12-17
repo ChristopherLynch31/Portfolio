@@ -1,0 +1,21 @@
+html {
+    font-size: 32px;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(58, 58, 58); 
+}
+
+img {
+    width: 85%;
+}
+
+nav {
+    text-align: left;
+    margin-left: 20%;
+    font-size: 24px;
+    color: black;
+}
+
+
+
